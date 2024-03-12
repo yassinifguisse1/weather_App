@@ -1,0 +1,13 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  max-width: 1080px;
+  margin: 20px  auto;
+}
+body{
+  background-color: rgba(128, 128, 128, 0.1);
+  padding: 18px;
+  /* height: 100vh; */
+}
